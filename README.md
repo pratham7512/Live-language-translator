@@ -12,5 +12,5 @@ This project is a live language translator that utilizes the Google Translate AP
 
 ## Screenshots
 
-![Translator Screenshot](assets/translator.png)
+![Translator Screenshot](./frontend/src/assets/translator.png)
 
