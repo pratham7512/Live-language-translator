@@ -1,8 +1,16 @@
-# React + Vite
+# Live Language Translator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
 
-Currently, two official plugins are available:
+This project is a live language translator that utilizes the Google Translate API. It is built using React for the frontend, Tailwind CSS for styling, and JavaScript for the logic. The translator allows users to input text in one language and get real-time translations in their desired language.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tech Stack
+
+- **React**: The frontend framework for building the user interface.
+- **Tailwind CSS**: A utility-first CSS framework for styling the application.
+- **JavaScript**: The programming language used for the logic and interaction with the Google Translate API.
+
+## Screenshots
+
+![Translator Screenshot](assets/translator.png)
+
